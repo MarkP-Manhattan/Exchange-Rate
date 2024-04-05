@@ -10,3 +10,4 @@ Select countries to get the exchange rate for a specific amount
 - Update values on amount change
 - Swap country rates
 In this project we will focus on the javascript (html and css is provided)
+# Exchange-Rate
